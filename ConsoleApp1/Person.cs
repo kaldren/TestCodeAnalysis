@@ -7,4 +7,8 @@ public class Person
     public void M(int param)
     {
     }
+
+    public void X(int param)
+    {
+    }
 }
